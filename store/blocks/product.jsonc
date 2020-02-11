@@ -63,7 +63,7 @@
       "initialSelection": "empty",
       "showVariationsLabels": true,
       "showVariationsErrorMessage": true,
-      "showValueForVariation": "all"
+      "showValueForVariation": "image"
     }
   }
  }
