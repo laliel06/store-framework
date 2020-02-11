@@ -58,6 +58,7 @@
       "product-quantity"
     ]
   },
+  
   "sku-selector": {
     "props": {
       "initialSelection": "empty",
