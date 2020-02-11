@@ -110,18 +110,19 @@
     "link": {
       "url": "/small-appliances/coffee-makers"
     } ,
-    "alt": "Coffee Makers Collection"
+    "alt": "Coffee Makers Collection",
+    "maxHeight": 100
   }
 },
 
 "image#mobile": {
   "props": {
     "src": "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Mobile.jpg?q=1",
-    "maxHeight": 100,
     "link": {
       "url": "/small-appliances/coffee-makers"
-    } ,
-    "alt": "Coffee Makers Collection"
+    },
+    "alt": "Coffee Makers Collection",
+    "maxHeight": 100
   }
 }
 
